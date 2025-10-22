@@ -1,0 +1,1 @@
+the Bankers algorithm takes in processes and available resources together with allocated ones, obtains the system current status and outputs a process request sequence and defines it's safety.It also allows the user yo request resources too
